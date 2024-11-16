@@ -1,7 +1,4 @@
 #include "AVL.hpp"
-#include<iostream>
-#include<algorithm>
-using namespace std;
 
 Node* AVL::insertNodeHelper(Node* root, int value, bool& isInserted)
 {
