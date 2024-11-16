@@ -1,6 +1,4 @@
 #include "AVL.hpp"
-#include<iostream>
-using namespace std;
 
 void AVL::preOrderHelper(Node* root)
 {
