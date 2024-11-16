@@ -3,8 +3,6 @@
 #include "insertNode.cpp"
 #include "deleteNode.cpp"
 #include "traversal.cpp"
-#include<iostream>
-using namespace std;
 
 int main()
 {
