@@ -1,5 +1,4 @@
 #include "AVL.hpp"
-#include<algorithm>
 
 Node* AVL::rightRotate(Node* y)
 {
